@@ -1,0 +1,107 @@
+[
+    [
+        "c:\\Wrapperclass\\Wrapperclass\\force-app",
+        {
+            "sourcePath": "c:\\Wrapperclass\\Wrapperclass\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547418720361,
+            "changeTime": 1547418720361,
+            "contentHash": "eb520a02113c92b6ef5dec43afcf6239f15b7789",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Wrapperclass\\Wrapperclass\\force-app\\main",
+        {
+            "sourcePath": "c:\\Wrapperclass\\Wrapperclass\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547408994187,
+            "changeTime": 1547408994187,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Wrapperclass\\Wrapperclass\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Wrapperclass\\Wrapperclass\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547408994187,
+            "changeTime": 1547408994187,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Wrapperclass\\Wrapperclass\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Wrapperclass\\Wrapperclass\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547408994187,
+            "changeTime": 1547408994187,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Wrapperclass\\Wrapperclass\\force-app\\wtrapperclass1.cls",
+        {
+            "sourcePath": "c:\\Wrapperclass\\Wrapperclass\\force-app\\wtrapperclass1.cls",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1547418647714,
+            "changeTime": 1547418647714,
+            "contentHash": "859372bbf3d66eab174e4ca5e67e99efff78f4c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Wrapperclass\\Wrapperclass\\force-app\\wtrapperclass1.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Wrapperclass\\Wrapperclass\\force-app\\wtrapperclass1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1547416124928,
+            "changeTime": 1547416124928,
+            "contentHash": "142b28640b5f99bc07dc2ba2a9505ac97ed7b3b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Wrapperclass\\Wrapperclass",
+        {
+            "sourcePath": "c:\\Wrapperclass\\Wrapperclass",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547415607759,
+            "changeTime": 1547415607759,
+            "contentHash": "af043b583a20aed67f9daf41e199d69a60eac1d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
