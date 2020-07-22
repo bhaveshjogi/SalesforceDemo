@@ -9,10 +9,10 @@ node {
 	def env = System.getenv()
 println(env['CONNECTED_APP_CONSUMER_KEY_DH'])
 	println(env['HUB_ORG_DH'])
-    def HUB_ORG='bhavesh@jogi.com'
-    def SFDC_HOST = 'https://nearbyyou-dev-ed.my.salesforce.com/'
-    def JWT_KEY_CRED_ID = '55688e38-4946-4ef6-aae7-90652b7aca7c'
-    def CONNECTED_APP_CONSUMER_KEY='3MVG9Y6d_Btp4xp78sJezspGP9HAkWhrS9xWf06s3BjVOSWqIyZa8ESqha55VjkV8PooiKBIB2.1.iS0FO8b1'
+    def HUB_ORG=$HUB_ORG_DH
+    def SFDC_HOST =$SFDC_HOST_DH
+    def JWT_KEY_CRED_ID =$JWT_CRED_ID_DH
+    def CONNECTED_APP_CONSUMER_KEY=$CONNECTED_APP_CONSUMER_KEY_DH
 
     println 'KEY IS' 
     println JWT_KEY_CRED_ID
