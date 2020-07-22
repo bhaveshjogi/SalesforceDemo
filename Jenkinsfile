@@ -5,10 +5,7 @@ node {
     def BUILD_NUMBER=env.BUILD_NUMBER
     def RUN_ARTIFACT_DIR="tests/${BUILD_NUMBER}"
     def SFDC_USERNAME
-	println "JOB_NAME = $HUB_ORG_DH"
-	def env = System.getenv()
-println(env['CONNECTED_APP_CONSUMER_KEY_DH'])
-	println(env['HUB_ORG_DH'])
+	
     def HUB_ORG=$HUB_ORG_DH
     def SFDC_HOST =$SFDC_HOST_DH
     def JWT_KEY_CRED_ID =$JWT_CRED_ID_DH
