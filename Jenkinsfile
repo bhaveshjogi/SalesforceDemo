@@ -1,14 +1,13 @@
 #!groovy
-import jenkins.model.Jenkins
 import groovy.json.JsonSlurperClassic
 node {
 
     def BUILD_NUMBER=env.BUILD_NUMBER
     def RUN_ARTIFACT_DIR="tests/${BUILD_NUMBER}"
     def SFDC_USERNAME
-	
-def envVars = Jenkins.instance.getGlobalNodeProperties()[0].getEnvVars() 
-println envVars['CONNECTED_APP_CONSUMER_KEY_DH']
+	def env = System.getenv()
+println(env['CONNECTED_APP_CONSUMER_KEY_DH'])
+	println(env['HUB_ORG_DH'])
     def HUB_ORG='bhavesh@jogi.com'
     def SFDC_HOST = 'https://nearbyyou-dev-ed.my.salesforce.com/'
     def JWT_KEY_CRED_ID = '55688e38-4946-4ef6-aae7-90652b7aca7c'
